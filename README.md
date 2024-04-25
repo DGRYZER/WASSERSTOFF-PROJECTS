@@ -1,5 +1,7 @@
 # WASSERSTOFF PROJECTS
 
+It is only Visual Overview of WORLD MAPS. 
+NO BACKEND FUNCTINALITIES.❌❌❌❌
 Please Check the hosted link first for better understanding 👇🏻👇🏻👇🏻👇🏻
  
 1 : Title of the project - Wasserstoff Projects
