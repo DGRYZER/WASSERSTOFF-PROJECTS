@@ -2,9 +2,11 @@
 
 It is only Visual Overview of WORLD MAPS. 
 
-NO BACKEND FUNCTIONALITIES.❌❌❌❌
+❌❌❌❌ NO BACKEND FUNCTIONALITIES. ❌❌❌❌
 
-Please Check the hosted link first for better understanding 👇🏻👇🏻👇🏻👇🏻
+❌❌❌❌ NO ROUTING. ❌❌❌❌
+
+PLEASE CHECK THE HOSTED LINKS FOR BETTER UNDERSTANDINGS 👇🏻👇🏻👇🏻👇🏻
  
 1 : Title of the project - Wasserstoff Projects
 
