@@ -15,7 +15,7 @@
 
 7 : GitHub project repository with the distinguished name 'wasserstoff' - 
 
-                a. Wasserstoff WebPage 1 - https://github.com/DGRYZER/WASSERSTOFF-PAGE1.git
+                a. Wasserstoff WebPage 1 - https://github.com/DGRYZER/WASSERSTOFF-PROJECTS/tree/main/WASSERSTOFF-PAGE1
 
                 b. Wasserstoff WebPage 2 - https://github.com/DGRYZER/WASSERSTOFF-PAGE2.git
 
