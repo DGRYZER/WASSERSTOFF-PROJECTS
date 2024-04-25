@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c51fb068.css",
+    "main.js": "/static/js/main.9edebc4c.js",
+    "static/css/70.54b0ab30.chunk.css": "/static/css/70.54b0ab30.chunk.css",
+    "static/js/70.6c264ab8.chunk.js": "/static/js/70.6c264ab8.chunk.js",
+    "static/media/RobotoRegular.ttf": "/static/media/RobotoRegular.fc2b5060f7accec5cf74.ttf",
+    "static/media/RobotoBold.ttf": "/static/media/RobotoBold.f80816a5455d171f948d.ttf",
+    "static/media/PoppinsLight.ttf": "/static/media/PoppinsLight.7641a0f76ca9ef6c252c.ttf",
+    "static/media/PoppinsRegular.ttf": "/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsSemiBold.ttf": "/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/OpenSansBold.ttf": "/static/media/OpenSansBold.c790f99966352c531503.ttf",
+    "static/media/ArchivoVFBetaRegular.ttf": "/static/media/ArchivoVFBetaRegular.27598737383bc056dda8.ttf",
+    "static/media/MuliBold.ttf": "/static/media/MuliBold.6cb68186a91bb3fcb0b7.ttf",
+    "index.html": "/index.html",
+    "main.c51fb068.css.map": "/static/css/main.c51fb068.css.map",
+    "main.9edebc4c.js.map": "/static/js/main.9edebc4c.js.map",
+    "70.54b0ab30.chunk.css.map": "/static/css/70.54b0ab30.chunk.css.map",
+    "70.6c264ab8.chunk.js.map": "/static/js/70.6c264ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51fb068.css",
+    "static/js/main.9edebc4c.js"
+  ]
+}
