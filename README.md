@@ -2,7 +2,7 @@
 
 It is only Visual Overview of WORLD MAPS. 
 
-NO BACKEND FUNCTINALITIES.❌❌❌❌
+NO BACKEND FUNCTIONALITIES.❌❌❌❌
 
 Please Check the hosted link first for better understanding 👇🏻👇🏻👇🏻👇🏻
  
