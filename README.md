@@ -17,7 +17,7 @@
 
                 a. Wasserstoff WebPage 1 - https://github.com/DGRYZER/WASSERSTOFF-PROJECTS/tree/main/WASSERSTOFF-PAGE1
 
-                b. Wasserstoff WebPage 2 - https://github.com/DGRYZER/WASSERSTOFF-PAGE2.git
+                b. Wasserstoff WebPage 2 - https://github.com/DGRYZER/WASSERSTOFF-PROJECTS/tree/main/WASSERSTOFF-PAGE2
 
                 c. Wasserstoff WebPage 3 - https://github.com/DGRYZER/WASSERSTOFF-PAGE3.git
 
