@@ -12,15 +12,7 @@ PLEASE CHECK THE HOSTED LINKS FOR BETTER UNDERSTANDINGS 👇🏻👇🏻👇🏻
 
 2 : Technology stack/libraries used - React JS, React Router, Tailwind CSS
 
-3 : GitHub project repository with the distinguished name 'wasserstoff' - 
-
-                a. Wasserstoff WebPage 1 - https://github.com/DGRYZER/WASSERSTOFF-PROJECTS/tree/main/WASSERSTOFF-PAGE1
-
-                b. Wasserstoff WebPage 2 - https://github.com/DGRYZER/WASSERSTOFF-PROJECTS/tree/main/WASSERSTOFF-PAGE2
-
-                c. Wasserstoff WebPage 3 - https://github.com/DGRYZER/WASSERSTOFF-PROJECTS/tree/main/WASSERSTOFF-PAGE3
-
-4 : Overviews of these webpages - 
+3 : Overviews of these webpages - 
 
 Webpage-1 👇🏻👇🏻👇🏻👇🏻
 
